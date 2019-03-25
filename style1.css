@@ -1,0 +1,203 @@
+h1{
+    text-align: center;
+    flex: 15px;
+    justify-content: center;
+    color:  #ffffff;
+    background-color: teal;
+    width: 10%;
+    margin: 0%;
+  margin-left: 480px;
+  margin-right: 500px;
+  font-size: 40px;
+  position: relative;
+  right: 181px;
+  padding: 9px;
+}
+.images{
+    height: 100px;
+    width: 100px;
+}
+.portbody{
+    border-style: groove;
+}
+.col-lg-3{
+    max-width: 90%;
+}
+header{
+    display: flex; 
+    background-color:  #ffffff;
+    height: 70px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+
+}
+h1 span{
+    background-color: teal;
+}
+.links{
+    position: relative;
+    display: flex;
+    flex: 0;
+    align-items: baseline;
+    padding: 9px;
+}
+
+.links > * {
+    margin: 10px;
+    color: #777777;
+
+}
+a:link {
+    color: #777777;
+   }
+
+/* mouse over link */
+a:hover {
+color: teal;
+}
+
+/* selected link */
+a:active {
+color: #777777;
+}
+
+h2{
+    width: 910px;
+    height: 65px;
+    position: relative;
+    left: 150px;
+    padding: 15px;
+    margin-right: 540px;
+    font-size: 50px;
+    color: teal;
+}
+.row4{
+    max-width: 80%;
+}
+main{
+    width: 100%;
+    background-color: snow;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    top: 33px;
+}
+
+body{
+    margin-top: 0%;
+    background-color:  #dddddd;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    width: 100%;
+    height: 55px;
+    padding: 1rem;
+    background-color:#666666;
+    text-align: center;
+    color: #777777;
+    border-top-color: teal;
+    border-top-style: double;
+}
+.Main{
+    background-color: snow;
+    border-style: outset;
+    height: 400px;
+    padding-bottom: 3%;
+    line-height: 3;
+    font-size: 14px;
+    color: #777777;
+    background-color: whitesmoke;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    overflow: scroll;
+}
+
+.robot{
+    float: left;
+    height: 200px;
+    width: 180px;
+   margin-left: 25px;
+}
+p{
+    color: white;
+}
+.contact {
+    height: 85px;
+    width: 910px;
+    position: relative;
+    left:25px;
+    padding: 0px;
+    margin-right: 540px;
+    font-size: 50px;
+    top: 30px;
+    border-bottom-style:solid;
+    border-bottom-color: grey;
+    color: teal;
+}
+
+.cop{
+    position: relative;
+    bottom: 3px;
+    font-size: 15px;
+    color: #777777;
+}
+
+form > * {
+    display: block;
+    width: 90%;
+    margin: 10px 0;
+}
+
+form{
+    padding: 15px;
+}
+button{
+    font-size: 25px;
+    background-color: teal;
+    color:  #ffffff;
+    width: fit-content;
+}
+
+.batman{
+    padding: 15px;
+    padding-left: 50px;
+}
+.hangman{
+  background-color: teal;
+  color:  #ffffff;
+  position: absolute;
+  bottom: 7%;
+  left: 0%;
+  width: 100%;
+  text-align: center;
+}
+.Toprow{
+    display: inline-block;
+    position: relative;
+    margin: 2%;
+    margin-bottom: .05%;
+}
+.port{
+    position: relative;
+    margin-bottom: 60px;
+}
+.footer2{
+    position: relative;
+    right: 0;
+    bottom: -20px;
+    left: 0;
+    padding: 1rem;
+    background-color:#666666;
+    text-align: center;
+    color: #777777;
+    border-top-color: teal;
+    border-top-style: double;
+    top: 0%;
+}
+.navbar-light .navbar-brand {
+    color: teal;
+    font-size: 40px;
+}
+
+.middle{
+   background-color: whitesmoke;
+}
